@@ -11,23 +11,8 @@ From the SMILES, the tool can calculated some physical-chemical properties (this
 
 # Contacts
 
-Edoardo Luca Viganò
-Laboratory of Environmental Chemistry and Toxicology
-Department of Environmental Health Sciences
-Istituto di Ricerche Farmacologiche Mario Negri IRCCS
-Via Mario Negri 2, 20156 Milano, Italy
-e-mail: edoardo.vigano@marionegri.it
+Edoardo Luca Viganò - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy - e-mail: edoardo.vigano@marionegri.it
 
-Erika Colombo
-Laboratory of Environmental Chemistry and Toxicology
-Department of Environmental Health Sciences
-Istituto di Ricerche Farmacologiche Mario Negri IRCCS
-Via Mario Negri 2, 20156 Milano, Italy
-e-mail: erika.colombo@marionegri.it
+Erika Colombo - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy -e-mail: erika.colombo@marionegri.it
 
-Gianluca Selvestrel
-Laboratory of Environmental Chemistry and Toxicology
-Department of Environmental Health Sciences
-Istituto di Ricerche Farmacologiche Mario Negri IRCCS
-Via Mario Negri 2, 20156 Milano, Italy
-e-mail: gianluca.selvestrel@marionegri.it
+Gianluca Selvestrel - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy - e-mail: gianluca.selvestrel@marionegri.it
