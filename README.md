@@ -14,7 +14,10 @@ From the SMILES, the tool can calculated some physical-chemical properties (this
 2.	Open the Dist/ChemicalResolverEXE.exe
 3.	Click on “Load File” and load the list of chemicals in .xlsx format
 4.	Select the type of input in “Input Identifier”
+
 ![Image1]( https://github.com/EdoardoVigano/Chemical-Resolver/tree/main/IMG_CR/Picture1.png)
+
+
 5.	Select the output in “Output Identifier”
 6.	Then, click on “Start Resolver” to start the research
 
