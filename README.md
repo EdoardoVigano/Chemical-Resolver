@@ -9,6 +9,16 @@ The advantage of searching on multiple databases is to easily check the consiste
 For data curation procedure and standardization of chemical structures, we suggest using this workflow in KNIME (https://github.com/DGadaleta88/data_curation_workflow). The Chemical Resolver can be useful also to search molecules flagged as warning in this workflow.
 From the SMILES, the tool can calculated some physical-chemical properties (this list is constantly updated) useful for research purposes.
 
+## How to use the tool
+1.	Download from [here] (https://marionegri-my.sharepoint.com/:f:/g/personal/edoardo_vigano_marionegri_it/EqIQx_zL3gFMkFSc18cjKOIBy0SPYDs2z1yqRkgTELtkmg) all folders and unzip all files.
+2.	Open the Dist/ChemicalResolverEXE.exe
+3.	Click on “Load File” and load the list of chemicals in .xlsx format
+4.	Select the type of input in “Input Identifier”
+![Image1]( https://github.com/EdoardoVigano/Chemical-Resolver/tree/main/IMG_CR/Picture1.png)
+5.	Select the output in “Output Identifier”
+6.	Then, click on “Start Resolver” to start the research
+
+
 # Contacts
 
 Edoardo Luca Viganò - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy - e-mail: edoardo.vigano@marionegri.it
