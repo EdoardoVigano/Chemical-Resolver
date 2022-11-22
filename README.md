@@ -27,7 +27,7 @@ From the SMILES, the tool can calculated some physical-chemical properties (this
 </p>
 
 7.	Go to “Chemical Output” and click on “Show Results”. You can save in .xlsx file all results by clicking on “Save File”.
-8.	
+	
 <p align="center">
   <img width="622" height="427" src="IMG_CR/Picture3.png">
 </p>
