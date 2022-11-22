@@ -12,19 +12,25 @@ From the SMILES, the tool can calculated some physical-chemical properties (this
 ## How to use the tool
 1.	Download from [here](https://marionegri-my.sharepoint.com/:f:/g/personal/edoardo_vigano_marionegri_it/EqIQx_zL3gFMkFSc18cjKOIBy0SPYDs2z1yqRkgTELtkmg) all folders and unzip all files.
 2.	Open the Dist/ChemicalResolverEXE.exe
-3.	Click on “Load File” and load the list of chemicals in .xlsx format
+3.	Click on “Load File” and load the list of chemicals in .xlsx format. This file must have the header. The tool considered only the first column.
 4.	Select the type of input in “Input Identifier”
 
-![Image1](IMG_CR/Picture1.png)
-
+<p align="center">
+  <img width="622" height="427" src="IMG_CR/Picture1.png">
+</p>
 
 5.	Select the output in “Output Identifier”
 6.	Then, click on “Start Resolver” to start the research. You have to wait the following windows before show the results!
 
-![image2](IMG_CR/Picture2.png)
+<p align="center">
+  <img width="501" height="152" src="IMG_CR/Picture2.png">
+</p>
 
 7.	Go to “Chemical Output” and click on “Show Results”. You can save in .xlsx file all results by clicking on “Save File”.
-![Image3](IMG_CR/Picture3.png)
+8.	
+<p align="center">
+  <img width="622" height="427" src="IMG_CR/Picture3.png">
+</p>
 
 8.	In “Physico-Chemical properties” you can calculate some descriptors useful from the SMILES, such as the Molecular Weight (MW). You can select one descriptor or “All” descriptors. Clicking on “Start calculation” button to start the calculation, then on “Save descriptor” to save the .xlsx file. If you want the previous research and the descriptors in one file, you can click on “Save file” to obtain one single file with all information you want.
 9.	Before starting the new research, click on “Clean Work”
@@ -32,7 +38,9 @@ From the SMILES, the tool can calculated some physical-chemical properties (this
 ### Other functionalities
 You can search for one single molecule and save the result by clicking on the identifier. In this way, a new window is open, and you can start the single search by clicking on “Search in database” (on NCI); you can also see the molecule structure after having searched for the SMILES. You can save the result clicking on “Save”.
 
-![Image4](IMG_CR/Picture4.png)
+<p align="center">
+  <img width="450" height="415" src="IMG_CR/Picture4.png">
+</p>
 
 # Contacts
 
