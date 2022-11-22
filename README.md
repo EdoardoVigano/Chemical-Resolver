@@ -33,6 +33,11 @@ From the SMILES, the tool can calculated some physical-chemical properties (this
 </p>
 
 8.	In “Physico-Chemical properties” you can calculate some descriptors useful from the SMILES, such as the Molecular Weight (MW). You can select one descriptor or “All” descriptors. Clicking on “Start calculation” button to start the calculation, then on “Save descriptor” to save the .xlsx file. If you want the previous research and the descriptors in one file, you can click on “Save file” to obtain one single file with all information you want.
+
+<p align="center">
+  <img width="622" height="427" src="IMG_CR/Picture5.png">
+</p>
+
 9.	Before starting the new research, click on “Clean Work”
 
 ### Other functionalities
