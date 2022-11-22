@@ -6,7 +6,7 @@ The Chemical Resolver tool is useful to search in several database (PubChem, Che
 The utility of this tool is to search for molecule identifiers quickly on several database in batch mode for a list of chemicals or search single molecule. 
 You can visualize the chemical structure and save the image in png format. 
 The advantage of searching on multiple databases is to easily check the consistency of the results obtained. 
-For data curation procedure and standardization of chemical structures, we suggest using [this workflow in KNIME](https://github.com/DGadaleta88/data_curation_workflow). The Chemical Resolver can be useful also to search molecules flagged as warning in this workflow.
+For data curation procedure and standardization of chemical structures, we suggest using [this workflow in KNIME](https://github.com/DGadaleta88/data_curation_workflow). The Chemical Resolver can be useful also to search molecules flagged as warning in that workflow.
 From the SMILES, the tool can calculated some physical-chemical properties (this list is constantly updated) useful for research purposes.
 
 ## How to use the tool
