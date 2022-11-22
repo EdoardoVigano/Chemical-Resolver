@@ -21,7 +21,7 @@ From the SMILES, the tool can calculated some physical-chemical properties (this
 5.	Select the output in “Output Identifier”
 6.	Then, click on “Start Resolver” to start the research. You have to wait the following windows before show the results!
 
-![image2](IMG/Picture2.png)
+![image2](IMG_CR/Picture2.png)
 
 7.	Go to “Chemical Output” and click on “Show Results”. You can save in .xlsx file all results by clicking on “Save File”.
 ![Image3](IMG_CR/Picture3.png)
