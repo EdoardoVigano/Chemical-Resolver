@@ -20,7 +20,7 @@ From the SMILES, the tool can calculated some physical-chemical properties (this
 </p>
 
 5.	Select the output in “Output Identifier”
-6.	Then, click on “Start Resolver” to start the research. You have to wait the following windows before show the results!
+6.	Then, click on “Start Resolver” to start the research. You must wait for the following window to come out before you can see the results!
 
 <p align="center">
   <img width="501" height="152" src="IMG_CR/Picture2.png">
