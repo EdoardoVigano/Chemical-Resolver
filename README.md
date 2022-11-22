@@ -16,7 +16,7 @@ From the SMILES, the tool can calculated some physical-chemical properties (this
 4.	Select the type of input in “Input Identifier”
 
 <p align="center">
-  <img width="622" height="427" src="IMG_CR/Picture1.png">
+  <img width="622" height="427" src="IMG_CR/Picture1b.png">
 </p>
 
 5.	Select the output in “Output Identifier”
