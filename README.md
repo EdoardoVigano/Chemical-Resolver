@@ -41,7 +41,9 @@ From the SMILES, the tool can calculate some physical-chemical properties (this 
   <img width="622" height="427" src="IMG_CR/Picture5.png">
 </p>
 
-9.	Before starting the new research, click on “Clean Work”
+9. On "Statistics" you can see the percentage of compounds (of all identifiers) that each database was able to find and the percentage of molecules for which it was possible to calculate each descriptor.
+
+10.	Before starting the new research, click on “Clean Work”
 
 ### Other functionalities
 By clicking on the identifier, you can search for one single molecule and save the result. In this way, a new window is open, and you can start the single search by clicking on “Search in database” (on NCI); you can also see the molecule structure after having searched for the SMILES. You can save the result by clicking on “Save”.
