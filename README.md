@@ -41,7 +41,7 @@ From the SMILES, the tool can calculate some physical-chemical properties (this 
 9.	Before starting the new research, click on “Clean Work”
 
 ### Other functionalities
-You can search for one single molecule and save the result by clicking on the identifier. In this way, a new window is open, and you can start the single search by clicking on “Search in database” (on NCI); you can also see the molecule structure after having searched for the SMILES. You can save the result by clicking on “Save”.
+By clicking on the identifier, you can search for one single molecule and save the result. In this way, a new window is open, and you can start the single search by clicking on “Search in database” (on NCI); you can also see the molecule structure after having searched for the SMILES. You can save the result by clicking on “Save”.
 
 <p align="center">
   <img width="450" height="415" src="IMG_CR/Picture4.png">
