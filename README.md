@@ -48,6 +48,7 @@ By clicking on the identifier, you can search for one single molecule and save t
 </p>
 
 In the "Add Chemical" section, you can upload an additional chemical before the research, using the same identifier chosen.
+
 On "Search Box" you can search for a chemical identifier in the loaded list
 
 # Contacts
