@@ -15,7 +15,7 @@ From the SMILES, the tool can calculate some physical-chemical properties (this 
 ## How to use the tool
 1.	Download from [here](https://marionegri-my.sharepoint.com/:f:/g/personal/edoardo_vigano_marionegri_it/EqIQx_zL3gFMkFSc18cjKOIBy0SPYDs2z1yqRkgTELtkmg) all folders and unzip all files.
 2.	Open the Dist/ChemicalResolverEXE.exe
-3.	Click on __“Load File”__ and load the list of chemicals in .xlsx format. This file must have a header. The tool considered only the first column.
+3.	Click on __“Load File”__ and load the list of chemicals in .xlsx format. This file must have a header. The tool considers only the first column.
 4.	Select the type of input in _“Input Identifier”_
 
 <p align="center">
