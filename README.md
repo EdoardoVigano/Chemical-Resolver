@@ -16,7 +16,7 @@ From the SMILES, the tool can calculate some physical-chemical properties (this 
 1.	Download from [here](https://marionegri-my.sharepoint.com/:f:/g/personal/edoardo_vigano_marionegri_it/EqIQx_zL3gFMkFSc18cjKOIBy0SPYDs2z1yqRkgTELtkmg) all folders and unzip all files.
 2.	Open the Dist/ChemicalResolverEXE.exe
 3.	Click on __“Load File”__ and load the list of chemicals in .xlsx format. This file must have a header. The tool considers only the first column.
-4.	Select the type of input in _“Input Identifier”_
+4.	Select the type of input in _“Inputs Identifier”_
 
 <p align="center">
   <img width="622" height="427" src="IMG_CR/Picture1b.png">
@@ -35,7 +35,7 @@ From the SMILES, the tool can calculate some physical-chemical properties (this 
   <img width="622" height="427" src="IMG_CR/Picture3.png">
 </p>
 
-8.	In __“Physico-Chemical properties”__ you can calculate some descriptors useful from the SMILES, such as the Molecular Weight (MW). You can select one descriptor or _“All”_ descriptors. Click on the __“Start calculation”__ button to start the calculation, then on __“Save descriptor”__ to save the .xlsx file. If you want the previous research and the descriptors in one file, you can click on “Save file” to obtain one single file with all information you want.
+8.	In __“Physico-Chemical properties”__ you can calculate some descriptors useful from the SMILES, such as the Molecular Weight (MW). You can select one descriptor or _“All”_ descriptors. Click on the __“Start calculation”__ button to start the calculation, then on __“Save descriptor”__ to save the .xlsx file.
 
 <p align="center">
   <img width="622" height="427" src="IMG_CR/Picture5.png">
