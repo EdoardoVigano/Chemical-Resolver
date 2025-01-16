@@ -4,7 +4,7 @@ Search SMILES, CAS, INCHI, and NAME from the most reliable database and calculat
 Web3Site: https://ipfs.io/ipfs/QmXFd3fS1jyE6FzRc3Z9QnRY1AXtxuUFgKSUtGMXStUEmB/
 
 ## What is it for?
-The Chemical Resolver tool is useful to search in several databases (PubChem, ChemID, CST, NCI, soon also ChEMBL, CompTox and Cas Common Chemistry) SMILES, INCHI, CAS, and NAME of molecules and can calculate some simple physical-chemical properties such as Molecular Weight and LogP.
+The Chemical Resolver tool is useful to search in several databases (PubChem, CST, NCI, soon also ChEMBL, CompTox and Cas Common Chemistry) SMILES, INCHI, CAS, and NAME of molecules and can calculate some simple physical-chemical properties such as Molecular Weight and LogP.
 
 The utility of this tool is to search for molecule identifiers quickly on several databases in batch mode for a list of chemicals or search single molecule. 
 You can visualize the chemical structure and save the image in png format.
