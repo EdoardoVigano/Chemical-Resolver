@@ -1,8 +1,6 @@
 # Chemical-Resolver
 Search SMILES, CAS, INCHI, and NAME from the most reliable database and calculation of physico-chemical properties
 
-Web3Site: https://ipfs.io/ipfs/QmXFd3fS1jyE6FzRc3Z9QnRY1AXtxuUFgKSUtGMXStUEmB/
-
 ## What is it for?
 The Chemical Resolver tool is useful to search in several databases (PubChem, CST, NCI, soon also ChEMBL, CompTox and Cas Common Chemistry) SMILES, INCHI, CAS, and NAME of molecules and can calculate some simple physical-chemical properties such as Molecular Weight and LogP.
 
@@ -15,7 +13,7 @@ For data curation procedure and standardization of chemical structures, we sugge
 From the SMILES, the tool can calculate some physical-chemical properties (this list is constantly updated) useful for research purposes.
 
 ## How to use the tool
-1.	Download from [here](https://www.swisstransfer.com/d/fdf58ae0-7686-47d0-81e9-d141782b8cb5﻿)) all folders and unzip all files.
+1.	Download from [here](https://www.swisstransfer.com/d/fdf58ae0-7686-47d0-81e9-d141782b8cb5﻿) all folders and unzip all files.
 2.	Open the Dist/ChemicalResolverEXE.exe
 3.	Click on __“Load File”__ and load the list of chemicals in .xlsx format. This file must have a header. The tool considers only the first column.
 4.	Select the type of input in _“Inputs Identifier”_
