@@ -13,7 +13,7 @@ For data curation procedure and standardization of chemical structures, we sugge
 From the SMILES, the tool can calculate some physical-chemical properties (this list is constantly updated) useful for research purposes.
 
 ## How to use the tool
-1.	Download from [here] https://www.swisstransfer.com/d/fdf58ae0-7686-47d0-81e9-d141782b8cb5﻿  all folders and unzip all files.
+1.	Download from [here](https://edoardovigano.itch.io/chemicalresolver)﻿  all folders and unzip all files.
 2.	Open the ChemicalResolverEXE.exe
 3.	Click on __“Load File”__ and load the list of chemicals in .xlsx format. This file must have a header. The tool considers only the first column.
 4.	Select the type of input in _“Inputs Identifier”_
