@@ -34,6 +34,7 @@ In case of MolecularResolver, you have to flag the MG box, indicate the _Inputs 
 or
 
 5b.     In case of the classical approach: Select the output in _“Output Identifier”_
+
 6.	Then, click on __“Start Resolver”__ to start the research. You must wait for the following window to come out before you can see the results!
 
 <p align="center">
