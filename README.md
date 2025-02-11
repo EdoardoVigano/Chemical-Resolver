@@ -25,7 +25,7 @@ From the SMILES, the tool can calculate some physical-chemical properties (this 
 You can chose two different type of research: MolecularResolver (MR) [link](https://github.com/MoleculeResolver/molecule-resolver) and the classical research. 
 
 
-5a. In case of MolecularResolver, you have to flag the MG box, indicate the _Inputs Identifier_ and click on _Start resolver_
+5a. In case of MolecularResolver, you have to flag the MR box, indicate the _Inputs Identifier_ and click on _Start resolver_
 
 <p align="center">
   <img width="622" height="427" src="IMG_CR/Picture1c.png">
