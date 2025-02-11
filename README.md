@@ -14,15 +14,26 @@ From the SMILES, the tool can calculate some physical-chemical properties (this 
 
 ## How to use the tool
 1.	Download from [here](https://edoardovigano.itch.io/chemicalresolver)﻿  all folders and unzip all files.
-2.	Open the ChemicalResolverEXE.exe
-3.	Click on __“Load File”__ and load the list of chemicals in .xlsx format. This file must have a header. The tool considers only the first column.
+2.	Open the ChemicalResolverEXE.exe. Do not change the folder of the .exe file.
+3.	Click on __“Load File”__ and load the list of chemicals in .xlsx format. This file must have a header (name, smiles, cas). The tool considers only the first column.
 4.	Select the type of input in _“Inputs Identifier”_
 
 <p align="center">
   <img width="622" height="427" src="IMG_CR/Picture1b.png">
 </p>
 
-5.	Select the output in _“Output Identifier”_
+You can chose two different type of research: 
+
+5a.     MolecularResolver (MR) [link](https://github.com/MoleculeResolver/molecule-resolver) and the classical research. 
+In case of MolecularResolver, you have to flag the MG box, indicate the _Inputs Identifier_ and click on _Start resolver_
+
+<p align="center">
+  <img width="622" height="427" src="IMG_CR/Picture1c.png">
+</p>
+
+or
+
+5b.     In case of the classical approach: Select the output in _“Output Identifier”_
 6.	Then, click on __“Start Resolver”__ to start the research. You must wait for the following window to come out before you can see the results!
 
 <p align="center">
@@ -61,5 +72,3 @@ On _"Search Box"_ you can search for a chemical identifier in the loaded list
 Edoardo Luca Viganò - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy - e-mail: edoardo.vigano@marionegri.it
 
 Erika Colombo - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy -e-mail: erika.colombo@marionegri.it
-
-Gianluca Selvestrel - Laboratory of Environmental Chemistry and Toxicology - Department of Environmental Health Sciences - Istituto di Ricerche Farmacologiche Mario Negri IRCCS - Via Mario Negri 2, 20156 Milano, Italy - e-mail: gianluca.selvestrel@marionegri.it
